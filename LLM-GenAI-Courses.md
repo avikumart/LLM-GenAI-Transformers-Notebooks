@@ -9,3 +9,4 @@
 | LangChain: Chat with Your Data | Deeplearning.AI | Document loading, Vector stores and embeddings, Q&A and Chat | [link](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) |
 | Generative AI with LLMs (Specialization) | Deeplearning.AI | Workings of GenAI, Build and Deploy AI models | [link](https://www.deeplearning.ai/courses/generative-ai-with-llms/) |
 | Career Essentials in Generative AI Path | Microsoft and Linkedin | Introductory courses AI, LLMs | [link](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin?u=92695330) |
+| Vector Databases: Zero to MVP | Weaviate | Introductory course on Vector Databases | [link](https://weaviate.io/developers/academy/zero_to_mvp) | 
