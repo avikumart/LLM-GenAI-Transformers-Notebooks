@@ -11,3 +11,5 @@
 | Career Essentials in Generative AI Path | Microsoft and Linkedin | Introductory courses AI, LLMs | [link](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin?u=92695330) |
 | Vector Databases: Zero to MVP | Weaviate | Introductory course on Vector Databases | [link](https://weaviate.io/developers/academy/zero_to_mvp) | 
 | Introduction to Generative AI | Coursera | Define Generative AI, How it Works, Model Types, and Applications | [Link](https://www.coursera.org/learn/introduction-to-generative-ai) |
+| Full Stack LLM Bootcamp | The Full Stack | Prompt eng., LLMOps, UX for LLM use interfaces | [Link](https://fullstackdeeplearning.com/llm-bootcamp/) |
+| Deep Learning course | Neuromatch | PyTorch, Transformers, GenAI models, self-supervised learning | [Link](https://deeplearning.neuromatch.io/tutorials/intro.html) |
