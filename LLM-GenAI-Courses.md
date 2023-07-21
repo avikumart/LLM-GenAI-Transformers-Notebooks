@@ -13,3 +13,7 @@
 | Introduction to Generative AI | Coursera | Define Generative AI, How it Works, Model Types, and Applications | [Link](https://www.coursera.org/learn/introduction-to-generative-ai) |
 | Full Stack LLM Bootcamp | The Full Stack | Prompt eng., LLMOps, UX for LLM use interfaces | [Link](https://fullstackdeeplearning.com/llm-bootcamp/) |
 | Deep Learning course | Neuromatch | PyTorch, Transformers, GenAI models, self-supervised learning | [Link](https://deeplearning.neuromatch.io/tutorials/intro.html) |
+| LLM University | Cohere | LLMs, Text representations, Text generation, and deployment | [Link](https://docs.cohere.com/docs/llmu) |
+| LangChain & Vector Databases in Production | Activeloop | LLM with LangChain, Prompting, Vector indexes | [Link](https://learn.activeloop.ai/courses/langchain) |
+| LLM Learning Lab | Lightning AI | Fine-tuning LLMs, Vision transformers | [Link](https://lightning.ai/pages/llm-learning-lab/)
+
