@@ -2,4 +2,6 @@
 
 | Title | Author | Publisher | Date of Publication | Link |
 | :---- |  :---: |   :----:  |      :-------:      | :--: |
-| Build Semantic Search Applications Using Open Source Vector Database ChromaDB | Avikumar Talaviya | Analytics Vidhya | 18 July 2023 | [link](https://www.analyticsvidhya.com/blog/2023/07/semantic-search-applications/) |       
+| Build Semantic Search Applications Using Open Source Vector Database ChromaDB | Avikumar Talaviya | Analytics Vidhya | 18 July, 2023 | [link](https://www.analyticsvidhya.com/blog/2023/07/semantic-search-applications/) |
+| Using LangChain to build LLM-powered applications | Avikumar Talaviya | MachineHack | 21 July, 2023  | [Link](https://machinehack.com/story/langchain-to-build-llm-powered-applications)
+
