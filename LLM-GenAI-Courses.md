@@ -15,5 +15,5 @@
 | Deep Learning course | Neuromatch | PyTorch, Transformers, GenAI models, self-supervised learning | [Link](https://deeplearning.neuromatch.io/tutorials/intro.html) |
 | LLM University | Cohere | LLMs, Text representations, Text generation, and deployment | [Link](https://docs.cohere.com/docs/llmu) |
 | LangChain & Vector Databases in Production | Activeloop | LLM with LangChain, Prompting, Vector indexes | [Link](https://learn.activeloop.ai/courses/langchain) |
-| LLM Learning Lab | Lightning AI | Fine-tuning LLMs, Vision transformers | [Link](https://lightning.ai/pages/llm-learning-lab/)
-
+| LLM Learning Lab | Lightning AI | Fine-tuning LLMs, Vision transformers | [Link](https://lightning.ai/pages/llm-learning-lab/) |
+| Building Generative AI Applications with Gradio | Deeplearning.AI | Image generation, Image captioning, and Text-summarization | [LInk](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/) |
