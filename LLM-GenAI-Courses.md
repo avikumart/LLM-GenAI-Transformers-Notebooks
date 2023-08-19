@@ -18,4 +18,9 @@
 | LLM Learning Lab | Lightning AI | Fine-tuning LLMs, Vision transformers | [Link](https://lightning.ai/pages/llm-learning-lab/) |
 | Building Generative AI Applications with Gradio | Deeplearning.AI | Image generation, Image captioning, and Text-summarization | [LInk](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/) |
 | Evaluating and Debugging Generative AI | Deeplearning.AI | Evaluation of LLMs using W&B | [Link](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/) |
-| How Diffusion Models Work | Deeplearning.AI | How diffusion models work?, train and deployment of models | [Link](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) |
+| How Diffusion Models Work | Deeplearning.AI | How diffusion models work?, train and deployment of models | [Link](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)|
+| AI for Everyone | Deeplearning.AI | Workflow of ML/DS Projects, AI Terminology, AI Strategy | [Link](https://www.deeplearning.ai/courses/ai-for-everyone/) |
+| AI for Good | Deeplearning.AI | Learn a framework for contributing to AI-powered initiatives that create positive change | [Link](https://www.deeplearning.ai/courses/ai-for-good/) |
+
+
+
