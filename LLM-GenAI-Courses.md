@@ -23,6 +23,7 @@
 | AI for Good | Deeplearning.AI | Learn a framework for contributing to AI-powered initiatives that create positive change | [Link](https://www.deeplearning.ai/courses/ai-for-good/) |
 | Finetuning Large Language Models | Deeplearning.AI | Fundamentals of LLMs, Fine-tuning and evaluation of LLMs | [Link](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) |
 | Large Language Models with Semantic Search | Deeplearning.AI | Enhance keyword-based search, Implement retrieval through embeddings | [Link](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/) |
+| How Business Thinkers Can Start Building AI Plugins With Semantic Kernel | Deeplearning.AI | Business apps using LLMs, Utilize semantic kernel in your app | [Link](https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/)
 
 
 
