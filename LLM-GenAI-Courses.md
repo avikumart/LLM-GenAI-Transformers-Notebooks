@@ -13,3 +13,17 @@
 | Introduction to Generative AI | Coursera | Define Generative AI, How it Works, Model Types, and Applications | [Link](https://www.coursera.org/learn/introduction-to-generative-ai) |
 | Full Stack LLM Bootcamp | The Full Stack | Prompt eng., LLMOps, UX for LLM use interfaces | [Link](https://fullstackdeeplearning.com/llm-bootcamp/) |
 | Deep Learning course | Neuromatch | PyTorch, Transformers, GenAI models, self-supervised learning | [Link](https://deeplearning.neuromatch.io/tutorials/intro.html) |
+| LLM University | Cohere | LLMs, Text representations, Text generation, and deployment | [Link](https://docs.cohere.com/docs/llmu) |
+| LangChain & Vector Databases in Production | Activeloop | LLM with LangChain, Prompting, Vector indexes | [Link](https://learn.activeloop.ai/courses/langchain) |
+| LLM Learning Lab | Lightning AI | Fine-tuning LLMs, Vision transformers | [Link](https://lightning.ai/pages/llm-learning-lab/) |
+| Building Generative AI Applications with Gradio | Deeplearning.AI | Image generation, Image captioning, and Text-summarization | [LInk](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/) |
+| Evaluating and Debugging Generative AI | Deeplearning.AI | Evaluation of LLMs using W&B | [Link](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/) |
+| How Diffusion Models Work | Deeplearning.AI | How diffusion models work?, train and deployment of models | [Link](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)|
+| AI for Everyone | Deeplearning.AI | Workflow of ML/DS Projects, AI Terminology, AI Strategy | [Link](https://www.deeplearning.ai/courses/ai-for-everyone/) |
+| AI for Good | Deeplearning.AI | Learn a framework for contributing to AI-powered initiatives that create positive change | [Link](https://www.deeplearning.ai/courses/ai-for-good/) |
+| Finetuning Large Language Models | Deeplearning.AI | Fundamentals of LLMs, Fine-tuning and evaluation of LLMs | [Link](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) |
+| Large Language Models with Semantic Search | Deeplearning.AI | Enhance keyword-based search, Implement retrieval through embeddings | [Link](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/) |
+| How Business Thinkers Can Start Building AI Plugins With Semantic Kernel | Deeplearning.AI | Business apps using LLMs, Utilize semantic kernel in your app | [Link](https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/)
+
+
+
