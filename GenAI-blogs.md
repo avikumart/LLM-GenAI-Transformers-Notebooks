@@ -10,3 +10,4 @@
 | Retrieval Augmented Generation (RAG) Using LangChain | Harpreet Sahota | Deci.ai | 31 August, 2023 | [Link](https://deci.ai/blog/retrieval-augmented-generation-using-langchain/) |
 | Finetuning an LLM: RLHF and alternatives (Part I) | Jose J. Martinez | Medium | 16 August, 2023 | [Link](https://medium.com/mantisnlp/finetuning-an-llm-rlhf-and-alternatives-part-i-2106b95c8087) | 
 | Llama from scratch (or how to implement a paper without crying) | Brian Kitano | Personal Blog | 9 August, 2023 | [Link](https://blog.briankitano.com/llama-from-scratch/) |
+| LLMs in real-world projects | Pau L. Bajo | Personal Blog | 20 August, 2023 | [Link](https://www.realworldml.xyz/blog/llms-in-real-world-projects) | 
