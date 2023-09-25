@@ -12,3 +12,4 @@
 | Llama from scratch (or how to implement a paper without crying) | Brian Kitano | Personal Blog | 9 August, 2023 | [Link](https://blog.briankitano.com/llama-from-scratch/) |
 | LLMs in real-world projects | Pau L. Bajo | Personal Blog | 20 August, 2023 | [Link](https://www.realworldml.xyz/blog/llms-in-real-world-projects) | 
 | Machine Learning Experiment Tracking Using MLflow | Avikumar Talaviya | Analytics Vidhya | 22 Sept, 2023 | [Link](https://www.analyticsvidhya.com/blog/2023/09/machine-learning-experiment-tracking-using-mlflow/) |
+| Llama Dive | Derrick Mwiti | mldive | 16 Spet, 2023 | [Link](https://www.mldive.com/llama-dive/)
