@@ -26,5 +26,7 @@
 | How Business Thinkers Can Start Building AI Plugins With Semantic Kernel | Deeplearning.AI | Business apps using LLMs, Utilize semantic kernel in your app | [Link](https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/) |
 | Understanding and Applying Text Embeddings with Vertex AI | Deeplearning.AI | text embeddings for tasks like text classification, clustering, etc | [Link](https://www.deeplearning.ai/short-courses/google-cloud-vertex-ai/) |
 | Pair Programming with a Large Language Model | Deeplearning.AI | Learn to write a code using LLMs, Test and Debug using PaLM API | [Link](https://www.deeplearning.ai/short-courses/pair-programming-llm/) |
+| Functions, Tools and Agents with LangChain | Deeplearning.AI | LLM APIs, LangChain Expression Language, Conversational Agents | [Link](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/?utm_source=dlai-homepage&utm_medium=featured-card&utm_campaign=langchain3-launch) | 
+
 
 
