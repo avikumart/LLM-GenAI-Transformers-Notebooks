@@ -27,6 +27,7 @@
 | Understanding and Applying Text Embeddings with Vertex AI | Deeplearning.AI | text embeddings for tasks like text classification, clustering, etc | [Link](https://www.deeplearning.ai/short-courses/google-cloud-vertex-ai/) |
 | Pair Programming with a Large Language Model | Deeplearning.AI | Learn to write a code using LLMs, Test and Debug using PaLM API | [Link](https://www.deeplearning.ai/short-courses/pair-programming-llm/) |
 | Functions, Tools and Agents with LangChain | Deeplearning.AI | LLM APIs, LangChain Expression Language, Conversational Agents | [Link](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/?utm_source=dlai-homepage&utm_medium=featured-card&utm_campaign=langchain3-launch) | 
+| Training & Fine-Tuning LLMs for Production | Activeloop | Intro to LLMs, Training LLMs, fine-tuning LLMs | [Link](https://learn.activeloop.ai/courses/llms) |
 
 
 
