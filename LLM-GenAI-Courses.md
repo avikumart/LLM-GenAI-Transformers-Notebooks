@@ -30,6 +30,7 @@
 | Training & Fine-Tuning LLMs for Production | Activeloop | Intro to LLMs, Training LLMs, fine-tuning LLMs | [Link](https://learn.activeloop.ai/courses/llms) |
 | Vector Databases: from Embeddings to Applications | Deeplearning.AI | Understand vector databases and use them to develop GenAI applications | [Link](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/) |
 | Building and Evaluating Advanced RAG Applications | Deeplearning.AI | Robust RAG based system to streamline your process | [Link](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) | 
+| Quality and Safety for LLM Applications | Deeplearning.AI | Monitor and enhance security measures, Detect and prevent security threats and jailbreaks | [Link](https://www.deeplearning.ai/short-courses/quality-safety-llm-applications/) |
 
 
 
