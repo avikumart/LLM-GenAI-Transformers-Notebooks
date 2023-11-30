@@ -29,6 +29,7 @@
 | Functions, Tools and Agents with LangChain | Deeplearning.AI | LLM APIs, LangChain Expression Language, Conversational Agents | [Link](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/?utm_source=dlai-homepage&utm_medium=featured-card&utm_campaign=langchain3-launch) | 
 | Training & Fine-Tuning LLMs for Production | Activeloop | Intro to LLMs, Training LLMs, fine-tuning LLMs | [Link](https://learn.activeloop.ai/courses/llms) |
 | Vector Databases: from Embeddings to Applications | Deeplearning.AI | Understand vector databases and use them to develop GenAI applications | [Link](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/) |
+| Building and Evaluating Advanced RAG Applications | Deeplearning.AI | Robust RAG based system to streamline your process | [Link](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) | 
 
 
 
