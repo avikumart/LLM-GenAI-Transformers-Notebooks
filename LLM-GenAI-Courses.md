@@ -31,6 +31,7 @@
 | Vector Databases: from Embeddings to Applications | Deeplearning.AI | Understand vector databases and use them to develop GenAI applications | [Link](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/) |
 | Building and Evaluating Advanced RAG Applications | Deeplearning.AI | Robust RAG based system to streamline your process | [Link](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) | 
 | Quality and Safety for LLM Applications | Deeplearning.AI | Monitor and enhance security measures, Detect and prevent security threats and jailbreaks | [Link](https://www.deeplearning.ai/short-courses/quality-safety-llm-applications/) |
+| https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/ | Deeplearning.AI | Conceptual understanding of RLHF, Finetune the Llama 2 using RLHF and evaluate models | [Link](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/) |
 
 
 
