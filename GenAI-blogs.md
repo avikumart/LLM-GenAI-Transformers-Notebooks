@@ -16,4 +16,3 @@
 | LLM Monitoring and Observability | Josh Poduska | Towards Data Science | 16 Sept, 2023 | [Link](https://towardsdatascience.com/llm-monitoring-and-observability-c28121e75c2f) |
 | RAG with LlamaIndex and DeciLM: A Step-by-Step Tutorial | Harpreet Sahota | Deci.AI | 20 Oct, 2023 | [Link](https://deci.ai/blog/rag-with-llamaindex-and-decilm-a-step-by-step-tutorial/) |
 | Implementing Transformer decoder for text generation in Keras and TensorFlow | Derrick mwiti | mlnuggets | 16 Nov, 2023 | [Link](https://www.machinelearningnuggets.com/transformer-decoder/) |
-
