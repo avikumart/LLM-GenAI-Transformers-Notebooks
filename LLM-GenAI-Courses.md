@@ -33,6 +33,8 @@
 | Quality and Safety for LLM Applications | Deeplearning.AI | Monitor and enhance security measures, Detect and prevent security threats and jailbreaks | [Link](https://www.deeplearning.ai/short-courses/quality-safety-llm-applications/) |
 | Reinforcement Learning from Human Feedback | Deeplearning.AI | Conceptual understanding of RLHF, Finetune the Llama 2 using RLHF and evaluate models | [Link](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/) |
 | Advanced Retrieval for AI with Chroma | Deeplearning.AI | Learn to use LLMs to improve your queries, Advance retrieval to improve relvancy of the output | [Link](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/) |
+| LLMOps | Deeplearning.AI | Learn open source pipeline to fine-tune LLM, version your data and practice with BigQuery, Kubeflow pipelines and GCP | [Link](https://www.deeplearning.ai/short-courses/llmops/) |
+
 
 
 
