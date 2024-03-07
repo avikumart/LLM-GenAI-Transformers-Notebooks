@@ -36,7 +36,7 @@
 | LLMOps | Deeplearning.AI | Learn open source pipeline to fine-tune LLM, version your data and practice with BigQuery, Kubeflow pipelines and GCP | [Link](https://www.deeplearning.ai/short-courses/llmops/) |
 | Serverless LLM apps with Amazon Bedrock | Deeplearning.AI | Customize LLM, Create Audio files to text summary using Amazon Bedrock | [Link](https://www.deeplearning.ai/short-courses/serverless-llm-apps-amazon-bedrock/) |
 | Prompt Engineering with Llama 2 | Deeplearning.AI | Prompting llama 2, interact with code llama, Meta llama 2 chat to build AI applications | [Link](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/) |
-
+| Open Source Models with Hugging Face | Deeplearning.AI | Fine and filter Hf models, Build AI apps with few lines of code using Gradio | [Link](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/) |
 
 
 
