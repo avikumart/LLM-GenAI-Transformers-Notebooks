@@ -16,4 +16,5 @@
 | LLM Monitoring and Observability | Josh Poduska | Towards Data Science | 16 Sept, 2023 | [Link](https://towardsdatascience.com/llm-monitoring-and-observability-c28121e75c2f) |
 | RAG with LlamaIndex and DeciLM: A Step-by-Step Tutorial | Harpreet Sahota | Deci.AI | 20 Oct, 2023 | [Link](https://deci.ai/blog/rag-with-llamaindex-and-decilm-a-step-by-step-tutorial/) |
 | Implementing Transformer decoder for text generation in Keras and TensorFlow | Derrick mwiti | mlnuggets | 16 Nov, 2023 | [Link](https://www.machinelearningnuggets.com/transformer-decoder/) |
-| Fine-tuning GPT-3.5-Turbo for Natural Language to SQL | Mo Pourreza | Dataherald - Medium | 31 Aug, 2023 | [Link](https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c)
+| Fine-tuning GPT-3.5-Turbo for Natural Language to SQL | Mo Pourreza | Dataherald - Medium | 31 Aug, 2023 | [Link](https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c) |
+| LLMs Meet SQL: Revolutionizing Data Querying with Natural Language Processing | Senthil E | Level Up Coding - Mediumg | 6 March, 2024 | [Link](https://levelup.gitconnected.com/llms-meet-sql-revolutionizing-data-querying-with-natural-language-processing-52487337f043) |
