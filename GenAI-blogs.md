@@ -20,3 +20,5 @@
 | LLMs Meet SQL: Revolutionizing Data Querying with Natural Language Processing | Senthil E | Level Up Coding - Medium | 6 March, 2024 | [Link](https://levelup.gitconnected.com/llms-meet-sql-revolutionizing-data-querying-with-natural-language-processing-52487337f043) |
 | Retrieval Augmented Generation(RAG) — Chatbot for documents with LlamaIndex | A B Vijay Kumar | Medium | 6 Feb, 2024 | [Link](https://medium.com/@abvijaykumar/retrieval-augmented-generation-rag-with-llamaindex-1828ef80314c) |
 | Easily Finetune Llama 2 for Your Text-to-SQL Applications | Jerry Liu | Llamaindex blog | 17 Aug, 2023 | [Link](https://medium.com/llamaindex-blog/easily-finetune-llama-2-for-your-text-to-sql-applications-ecd53640e10d) |
+| Why LLMs are not Good for Coding | Andrea Vanlenzuela | Towards Data Science | 28 Feb, 2024 | [Link](https://towardsdatascience.com/llms-coding-chatgpt-python-artificial-intelligence-4ea7a7bbdd93) |
+
