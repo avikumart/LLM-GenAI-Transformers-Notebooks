@@ -24,4 +24,6 @@
 | Vector Embeddings Explained for Developers! | Pavan Belagatti | Level Up Coding | 1 March, 2024 | [Link](https://levelup.gitconnected.com/vector-embeddings-explained-for-developers-6bd9800d3635) |
 | Building LLM Applications: Introduction (Part 1) | Vipra Singh | Medium | 9 Jan, 2024 | [Link](https://medium.com/@vipra_singh/building-llm-applications-introduction-part-1-1c90294b155b) |
 | The Future of Financial AI: Stock Sentiment Analysis with SLIM Models | Yanli Liu | Level Up Coding - Medium | 28 Feb, 2024 | [Link](https://levelup.gitconnected.com/the-future-of-financial-ai-stock-sentiment-analysis-with-slim-models-3c7000046ae0) |
+| How to Build a Generative AI Tool for Information Extraction from Receipts | Robert Martin-Short | Towards Data Science | 10 April, 2024  | [Link](https://towardsdatascience.com/how-to-build-a-generative-ai-tool-for-information-extraction-from-receipts-516424327f66) |
+
 
