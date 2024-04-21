@@ -25,5 +25,6 @@
 | Building LLM Applications: Introduction (Part 1) | Vipra Singh | Medium | 9 Jan, 2024 | [Link](https://medium.com/@vipra_singh/building-llm-applications-introduction-part-1-1c90294b155b) |
 | The Future of Financial AI: Stock Sentiment Analysis with SLIM Models | Yanli Liu | Level Up Coding - Medium | 28 Feb, 2024 | [Link](https://levelup.gitconnected.com/the-future-of-financial-ai-stock-sentiment-analysis-with-slim-models-3c7000046ae0) |
 | How to Build a Generative AI Tool for Information Extraction from Receipts | Robert Martin-Short | Towards Data Science | 10 April, 2024  | [Link](https://towardsdatascience.com/how-to-build-a-generative-ai-tool-for-information-extraction-from-receipts-516424327f66) |
+| The Perfect Prompt: A Prompt Engineering Cheat Sheet | Maximilian Vogel | The Generator | 8 April, 2024 | [Link](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba) |
 
 
