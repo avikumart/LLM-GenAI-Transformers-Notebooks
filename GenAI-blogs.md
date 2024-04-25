@@ -26,5 +26,6 @@
 | The Future of Financial AI: Stock Sentiment Analysis with SLIM Models | Yanli Liu | Level Up Coding - Medium | 28 Feb, 2024 | [Link](https://levelup.gitconnected.com/the-future-of-financial-ai-stock-sentiment-analysis-with-slim-models-3c7000046ae0) |
 | How to Build a Generative AI Tool for Information Extraction from Receipts | Robert Martin-Short | Towards Data Science | 10 April, 2024  | [Link](https://towardsdatascience.com/how-to-build-a-generative-ai-tool-for-information-extraction-from-receipts-516424327f66) |
 | The Perfect Prompt: A Prompt Engineering Cheat Sheet | Maximilian Vogel | The Generator | 8 April, 2024 | [Link](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba) |
+| Unbelievable! Run 70B LLM Inference on a Single 4GB GPU with This NEW Technique | Gavin Li | AI Advances - Medium | 18 Nov, 2023 | [Link](https://ai.gopubby.com/unbelievable-run-70b-llm-inference-on-a-single-4gb-gpu-with-this-new-technique-93e2057c7eeb) |
 
 
