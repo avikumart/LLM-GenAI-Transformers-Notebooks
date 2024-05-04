@@ -30,5 +30,6 @@
 | Implementing Agentic RAG using Langchain | Plaban Nayak | The AI forum - Medium | 31 March, 2024 | [Link](https://medium.com/the-ai-forum/implementing-agentic-rag-using-langchain-b22af7f6a3b5) |
 | Semantic Chunking for RAG | Plaban Nayak | The AI Forum | 21 April, 2024 | [Link](https://medium.com/the-ai-forum/semantic-chunking-for-rag-f4733025d5f5) |
 | Which Vector Database Should You Use? Choosing the Best One for Your Needs | Plaban Nayak | The AI Forum | 19 April, 2024 | [Link](https://medium.com/the-ai-forum/which-vector-database-should-you-use-choosing-the-best-one-for-your-needs-5108ec7ba133) |
+| Ollama — Brings runtime to serve LLMs everywhere | A B Vijay Kumar | Medium | 18 February, 2024 | [Link](https://abvijaykumar.medium.com/ollama-brings-runtime-to-serve-llms-everywhere-8a23b6f6a1b4) |
 
 
