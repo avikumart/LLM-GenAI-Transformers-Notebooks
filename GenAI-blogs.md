@@ -33,6 +33,7 @@
 | Ollama — Brings runtime to serve LLMs everywhere | A B Vijay Kumar | Medium | 18 February, 2024 | [Link](https://abvijaykumar.medium.com/ollama-brings-runtime-to-serve-llms-everywhere-8a23b6f6a1b4) |
 | Tabular Data, RAG, & LLMs: Improve Results Through Data Table Prompting | Intel | Intel tech - Medium | 14 May, 2024 | [Link](https://medium.com/intel-tech/tabular-data-rag-llms-improve-results-through-data-table-prompting-bcb42678914b) | 
 | List of Different Ways to Run LLMs Locally | Dr. Walid Soula | ILLUMINATION | 27 March, 2024 | [Link](https://medium.com/illumination/list-of-different-ways-to-run-llms-locally-55f7268c55a2) |
+| Building Natural Language to SQL Applications using LlamaIndex | Avi Kumar Talaviya | 11 April, 2024 | [Link](https://www.analyticsvidhya.com/blog/2024/04/building-natural-language-to-sql-applications-using-llamaindex/) |
 
 
 
