@@ -41,7 +41,7 @@
 | LLMOps: Building real world applications with large langauge models | Udacity | Intro to LLMs, working with LLMs, LLMOps in Practice, etc | [Link](https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455) |
 | Getting Started with Mistral | DeepLearning.AI | Explore Mistral's open source models and latest Mixtral models, Use of Mistral's API | [Link](https://www.deeplearning.ai/short-courses/getting-started-with-mistral/) |
 | LLM Course | mlabonne/llm_course | LLM fundamentals, LLM scientist and LLM engineer | [Link](https://github.com/avikumart/llm-course) | 
-| Building and Evaluating Advanced RAG Applications | Truera/Deeplearning.AI | [Link](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) |
+| Building and Evaluating Advanced RAG Applications | Truera/Deeplearning.AI | Best practices in evaluation of RAG solutions, evaluating truthfulness and relevance of LLM responses | [Link](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) |
 
 
 
