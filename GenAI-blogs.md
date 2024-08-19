@@ -34,7 +34,8 @@
 | Tabular Data, RAG, & LLMs: Improve Results Through Data Table Prompting | Intel | Intel tech - Medium | 14 May, 2024 | [Link](https://medium.com/intel-tech/tabular-data-rag-llms-improve-results-through-data-table-prompting-bcb42678914b) | 
 | List of Different Ways to Run LLMs Locally | Dr. Walid Soula | ILLUMINATION | 27 March, 2024 | [Link](https://medium.com/illumination/list-of-different-ways-to-run-llms-locally-55f7268c55a2) |
 | Building Natural Language to SQL Applications using LlamaIndex | Avi Kumar Talaviya | Analytics Vidhya | 11 April, 2024 | [Link](https://www.analyticsvidhya.com/blog/2024/04/building-natural-language-to-sql-applications-using-llamaindex/) |
-| How to Fine-Tune Large Language Models with MonsterAPI | Avi Kumar Talaviya | Analytics Vidhya | 23 July, 2024 | [Link](https://www.analyticsvidhya.com/blog/2024/07/how-to-fine-tune-large-language-models-with-monsterapi/)
+| How to Fine-Tune Large Language Models with MonsterAPI | Avi Kumar Talaviya | Analytics Vidhya | 23 July, 2024 | [Link](https://www.analyticsvidhya.com/blog/2024/07/how-to-fine-tune-large-language-models-with-monsterapi/) |
+| Automating Web Search Using LangChain and Google Search APIs | Avi Kumar Talaviya | Analytics Vidhya | 01 July, 2024 | [Link](https://www.analyticsvidhya.com/blog/2024/06/automating-web-search-using-langchain-and-google-search-apis/) |
 
 
 
