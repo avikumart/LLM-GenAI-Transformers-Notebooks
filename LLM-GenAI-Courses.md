@@ -43,6 +43,7 @@
 | LLM Course | mlabonne/llm_course | LLM fundamentals, LLM scientist and LLM engineer | [Link](https://github.com/avikumart/llm-course) | 
 | Building and Evaluating Advanced RAG Applications | Truera/Deeplearning.AI | Best practices in evaluation of RAG solutions, evaluating truthfulness and relevance of LLM responses | [Link](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) |
 | Embedding Models: From Architecture to Implementation | Vectara/DeepLearning.AI | Embedding architecture, Word2Vect and BERT, training encoder models | [Link](https://www.deeplearning.ai/short-courses/embedding-models-from-architecture-to-implementation/) |
+| Building AI Applications with Haystack | Haystack/DeepLearning.AI | Learn Haystack components, document stores, RAG pipelines | [Link](https://www.deeplearning.ai/short-courses/building-ai-applications-with-haystack/) |
 
 
 
