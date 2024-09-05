@@ -45,6 +45,7 @@
 | Embedding Models: From Architecture to Implementation | Vectara/DeepLearning.AI | Embedding architecture, Word2Vect and BERT, training encoder models | [Link](https://www.deeplearning.ai/short-courses/embedding-models-from-architecture-to-implementation/) |
 | Building AI Applications with Haystack | Haystack/DeepLearning.AI | Learn Haystack components, document stores, RAG pipelines | [Link](https://www.deeplearning.ai/short-courses/building-ai-applications-with-haystack/) |
 | Building Applications with Vector Databases | Pinecone/Deeplearning.AI | Learn to create applications using pinecone, learn hybrid search with pinecone | [Link](https://www.deeplearning.ai/short-courses/building-applications-vector-databases/) |
+| AI Python for beginners | Deeplearning.AI | Programming fundamentals, Leverage AI assistants to debug code, explain concepts, enhancing learning | [Link](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) |
 
 
 
