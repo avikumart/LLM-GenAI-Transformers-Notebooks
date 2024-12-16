@@ -18,5 +18,6 @@ A repository containing all the LLM notebooks with tutorials and projects
 2. OpenAI
 3. Huggingface
 4. LlamaIndex
+5. ChromaDB
 
 🤖Contributions are welcome...
