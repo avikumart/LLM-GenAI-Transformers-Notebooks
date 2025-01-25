@@ -36,6 +36,11 @@
 | Building Natural Language to SQL Applications using LlamaIndex | Avi Kumar Talaviya | Analytics Vidhya | 11 April, 2024 | [Link](https://www.analyticsvidhya.com/blog/2024/04/building-natural-language-to-sql-applications-using-llamaindex/) |
 | How to Fine-Tune Large Language Models with MonsterAPI | Avi Kumar Talaviya | Analytics Vidhya | 23 July, 2024 | [Link](https://www.analyticsvidhya.com/blog/2024/07/how-to-fine-tune-large-language-models-with-monsterapi/) |
 | Automating Web Search Using LangChain and Google Search APIs | Avi Kumar Talaviya | Analytics Vidhya | 01 July, 2024 | [Link](https://www.analyticsvidhya.com/blog/2024/06/automating-web-search-using-langchain-and-google-search-apis/) |
+| Deploying Machine Learning models in Production | Cornellius Yudha Wijaya | KDnuggets | 23 January, 2025 | [Link](https://www.kdnuggets.com/guide-deploying-machine-learning-models-production?__s=9lrr66s09l8cyzfzsqvj&utm_source=drip&utm_medium=email&utm_campaign=MLM+Newsletter+January+24%2C+2025&utm_content=Python+Libraries+to+Build+an+Optimized+RAG+System+%E2%80%A2+Integrating+Language+Models+Into+Your+Text+Adventure+Games) |
+| How to Fine-Tune LLMs in 2024 with Hugging Face | Phillip Schmid | Personal Blog | 23 January, 2025 | [Link](https://www.philschmid.de/fine-tune-llms-in-2024-with-trl) |
+| Fine-Tune Llama 3.1 Ultra-Efficiently with Unsloth | Maxime Lebbone | Towards Data Science | 29 July, 2025 | [Link](https://towardsdatascience.com/fine-tune-llama-3-1-ultra-efficiently-with-unsloth-7196c7165bab) | 
+| Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation) | Sebastian Raschka, PhD | Ahead of AI | 19 Nov, 2023 | [Link](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms) |
+ 
 
 
 
