@@ -40,6 +40,7 @@
 | How to Fine-Tune LLMs in 2024 with Hugging Face | Phillip Schmid | Personal Blog | 23 January, 2025 | [Link](https://www.philschmid.de/fine-tune-llms-in-2024-with-trl) |
 | Fine-Tune Llama 3.1 Ultra-Efficiently with Unsloth | Maxime Lebbone | Towards Data Science | 29 July, 2025 | [Link](https://towardsdatascience.com/fine-tune-llama-3-1-ultra-efficiently-with-unsloth-7196c7165bab) | 
 | Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation) | Sebastian Raschka, PhD | Ahead of AI | 19 Nov, 2023 | [Link](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms) |
+| Docker for deploying the models in production | Matthew Mayo | KDnuggets | 28 January, 2025 | [Link](https://www.kdnuggets.com/manage-python-environments-docker-containers) |
  
 
 
