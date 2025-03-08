@@ -41,7 +41,8 @@
 | Fine-Tune Llama 3.1 Ultra-Efficiently with Unsloth | Maxime Lebbone | Towards Data Science | 29 July, 2025 | [Link](https://towardsdatascience.com/fine-tune-llama-3-1-ultra-efficiently-with-unsloth-7196c7165bab) | 
 | Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation) | Sebastian Raschka, PhD | Ahead of AI | 19 Nov, 2023 | [Link](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms) |
 | Docker for deploying the models in production | Matthew Mayo | KDnuggets | 28 January, 2025 | [Link](https://www.kdnuggets.com/manage-python-environments-docker-containers) |
-| Start Building These Projects to Become an LLM Engineer | Harshit Tyagi | Medium Blog | 15 September, 2024 | [Link](https://dswharshit.medium.com/start-building-these-projects-to-become-an-llm-engineer-0064e9e68d9d) | 
+| Start Building These Projects to Become an LLM Engineer | Harshit Tyagi | Medium Blog | 15 September, 2024 | [Link](https://dswharshit.medium.com/start-building-these-projects-to-become-an-llm-engineer-0064e9e68d9d) |
+| GenAI with Python: Build Agents from Scratch (Complete Tutorial) | Mauro Di Pietro | TDS Archive | 29 September, 2024 | [Link](https://medium.com/towards-data-science/genai-with-python-build-agents-from-scratch-complete-tutorial-4fc1e084e2ec) | 
 
  
 
