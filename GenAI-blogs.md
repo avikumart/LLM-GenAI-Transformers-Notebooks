@@ -46,7 +46,8 @@
 | The Books you need to Read to Master Generative AI | Ivo Bearnrado | Medium Blog | 12 November, 2024 | [Link](https://ivopbernardo.medium.com/the-books-you-need-to-read-to-master-generative-ai-a6dbf437c8ea) |
 | Build a Data Analyst AI Agent from Scratch | Daniel Herrera | Teradata Medium | 7 February, 2025 | [Link](https://medium.com/teradata/build-a-data-analyst-ai-agent-from-scratch-f613a1f5027c) | 
 | The Complete Guide to Building Your First AI Agent (It’s Easier Than You Think) | Paolo Perrone | DSC Medium | 11 March, 2025 | [Link](https://medium.com/data-science-collective/the-complete-guide-to-building-your-first-ai-agent-its-easier-than-you-think-c87f376c84b2) | 
-| Manus AI + Ollama: Build & Scrape ANYTHING (First-Ever General AI Agent) = OpenManus | Gao Dalle | Towards AI | 11 March, 2025 | [Link](https://pub.towardsai.net/manus-ai-ollama-build-scrape-anything-first-ever-general-ai-agent-openmanus-b5728ed5e2b8) | 
+| Manus AI + Ollama: Build & Scrape ANYTHING (First-Ever General AI Agent) = OpenManus | Gao Dalle | Towards AI | 11 March, 2025 | [Link](https://pub.towardsai.net/manus-ai-ollama-build-scrape-anything-first-ever-general-ai-agent-openmanus-b5728ed5e2b8) |
+| Google’s Gemma-3 Fine-Tuning Made Simple: Create Custom AI Models with Python and Unsloth | Krishan Walia | Towards AI | 15 March, 2025 | [Link](https://pub.towardsai.net/googles-gemma-3-fine-tuning-made-simple-create-custom-ai-models-with-python-and-unsloth-fb937495e9db) |
 
 
  
