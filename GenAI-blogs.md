@@ -49,6 +49,7 @@
 | Manus AI + Ollama: Build & Scrape ANYTHING (First-Ever General AI Agent) = OpenManus | Gao Dalle | Towards AI | 11 March, 2025 | [Link](https://pub.towardsai.net/manus-ai-ollama-build-scrape-anything-first-ever-general-ai-agent-openmanus-b5728ed5e2b8) |
 | Google’s Gemma-3 Fine-Tuning Made Simple: Create Custom AI Models with Python and Unsloth | Krishan Walia | Towards AI | 15 March, 2025 | [Link](https://pub.towardsai.net/googles-gemma-3-fine-tuning-made-simple-create-custom-ai-models-with-python-and-unsloth-fb937495e9db) |
 | How AI Can Predict and Prevent Power Grid Failures | ODSC | OSC - Open Data Science | 14 March, 2025 | [Link](https://odsc.medium.com/how-ai-can-predict-and-prevent-power-grid-failures-7cb09028f924) | 
+| Mastering AI Agents: The 10 Best Free Courses, Tutorials & Learning Tools | Maximilian Vogel | Medium | 13 March, 2025 | [Link](https://medium.com/@maximilian.vogel/mastering-ai-agents-the-10-best-free-courses-tutorials-learning-tools-46bc380a19d1) |
 
  
 
