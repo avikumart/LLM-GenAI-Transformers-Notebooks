@@ -52,6 +52,7 @@
 | Mastering AI Agents: The 10 Best Free Courses, Tutorials & Learning Tools | Maximilian Vogel | Medium | 13 March, 2025 | [Link](https://medium.com/@maximilian.vogel/mastering-ai-agents-the-10-best-free-courses-tutorials-learning-tools-46bc380a19d1) |
 | 10 Must-Know Python Libraries for LLMs in 2025 | Jayita Gulati | MLM | 25 March, 2025 | [Link](https://machinelearningmastery.com/10-must-know-python-libraries-for-llms-in-2025/) |
 | OpenAI Unveils GPT-4.5, its Most Advanced AI Model Yet | ODSC | Medium | 7 March, 2025 | [Link](https://odsc.medium.com/openai-unveils-gpt-4-5-its-most-advanced-ai-model-yet-b6b66c9dd2fe) | 
+| RAG From Scratch | Barhoumi Mosbeh | Towards AI | 1 oct, 2024 | [LInk](https://pub.towardsai.net/rag-from-scratch-66c5eff02482) | 
 
 
  
