@@ -53,6 +53,7 @@
 | 10 Must-Know Python Libraries for LLMs in 2025 | Jayita Gulati | MLM | 25 March, 2025 | [Link](https://machinelearningmastery.com/10-must-know-python-libraries-for-llms-in-2025/) |
 | OpenAI Unveils GPT-4.5, its Most Advanced AI Model Yet | ODSC | Medium | 7 March, 2025 | [Link](https://odsc.medium.com/openai-unveils-gpt-4-5-its-most-advanced-ai-model-yet-b6b66c9dd2fe) | 
 | RAG From Scratch | Barhoumi Mosbeh | Towards AI | 1 oct, 2024 | [LInk](https://pub.towardsai.net/rag-from-scratch-66c5eff02482) | 
+| How to Get Started with AI Agents: A Beginner’s Guide | Odunayo Babatope | Level Up coding | 31 March, 2025 | [Link](https://levelup.gitconnected.com/how-to-get-started-with-ai-agents-a-beginners-guide-d9e05c6cbc11) |  
 
 
  
