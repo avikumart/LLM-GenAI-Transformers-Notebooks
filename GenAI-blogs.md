@@ -56,7 +56,7 @@
 | How to Get Started with AI Agents: A Beginner’s Guide | Odunayo Babatope | Level Up coding | 31 March, 2025 | [Link](https://levelup.gitconnected.com/how-to-get-started-with-ai-agents-a-beginners-guide-d9e05c6cbc11) |  
 | 7 GitHub Projects to Master Machine Learning Operations | Abid Ali Awan | KDnuggets | 28 March, 2025 | [Link](https://www.kdnuggets.com/7-github-projects-to-master-machine-learning) |
 | Google just confirmed the AI reality many programmers are desperately trying to deny | Tari Ibaba | Coding Beauty | 20 Feb, 2025 | [Link](https://medium.com/coding-beauty/ai-writes-google-codebase-00e6ad35ac7c) |
-
+| A Practical Guide to Building Local RAG Applications with LangChain | Ivan Palomares Carrascosa | Machine learning mastery | 2 April, 2025 | [Link](https://machinelearningmastery.com/a-practical-guide-to-building-local-rag-applications-with-langchain/) | 
 
  
 
