@@ -58,6 +58,7 @@
 | Google just confirmed the AI reality many programmers are desperately trying to deny | Tari Ibaba | Coding Beauty | 20 Feb, 2025 | [Link](https://medium.com/coding-beauty/ai-writes-google-codebase-00e6ad35ac7c) |
 | A Practical Guide to Building Local RAG Applications with LangChain | Ivan Palomares Carrascosa | Machine learning mastery | 2 April, 2025 | [Link](https://machinelearningmastery.com/a-practical-guide-to-building-local-rag-applications-with-langchain/) |
 | How to Build a Multi-Agent Orchestrator Using Flink and Kafka | Sean Falconer | Medium | 2 April, 2025 | [Link](https://seanfalconer.medium.com/how-to-build-a-multi-agent-orchestrator-using-flink-and-kafka-4ee079351161) |
+| The Top 10 AI Research Papers of 2024: Key Takeaways and How You Can Apply Them | Prashant Kalepu | Towards AI | 17 Dec, 2024 | [Link](https://pub.towardsai.net/the-top-10-ai-research-papers-of-2024-key-takeaways-and-how-you-can-apply-them-5cec1583f60a) |
 
  
 
