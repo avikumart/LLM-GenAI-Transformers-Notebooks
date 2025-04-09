@@ -59,6 +59,7 @@
 | A Practical Guide to Building Local RAG Applications with LangChain | Ivan Palomares Carrascosa | Machine learning mastery | 2 April, 2025 | [Link](https://machinelearningmastery.com/a-practical-guide-to-building-local-rag-applications-with-langchain/) |
 | How to Build a Multi-Agent Orchestrator Using Flink and Kafka | Sean Falconer | Medium | 2 April, 2025 | [Link](https://seanfalconer.medium.com/how-to-build-a-multi-agent-orchestrator-using-flink-and-kafka-4ee079351161) |
 | The Top 10 AI Research Papers of 2024: Key Takeaways and How You Can Apply Them | Prashant Kalepu | Towards AI | 17 Dec, 2024 | [Link](https://pub.towardsai.net/the-top-10-ai-research-papers-of-2024-key-takeaways-and-how-you-can-apply-them-5cec1583f60a) |
+| 5 AI Projects You Can Build This Weekend (with Python) | Shaw Talebi | TDS Archive | 9 Oct, 2024 | [Link](https://medium.com/data-science/5-ai-projects-you-can-build-this-weekend-with-python-c57724e9c461) |
 
  
 
