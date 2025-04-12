@@ -62,6 +62,7 @@
 | 5 AI Projects You Can Build This Weekend (with Python) | Shaw Talebi | TDS Archive | 9 Oct, 2024 | [Link](https://medium.com/data-science/5-ai-projects-you-can-build-this-weekend-with-python-c57724e9c461) |
 | Gemini RAG Recipe with Query Enhancement | Cornellius Yudha Wijaya | KDNuggets | 8 April, 2025 | [Link](https://www.kdnuggets.com/gemini-rag-recipe-with-query-enhancement) |
 | From Unstructured Text to Interactive Knowledge Graphs Using LLMs | Robert McDermott | Medium | 31 March, 2025 | [Link](https://robert-mcdermott.medium.com/from-unstructured-text-to-interactive-knowledge-graphs-using-llms-dd02a1f71cd6) | 
+| Understanding RAG Part IX: Fine-Tuning LLMs for RAG | Iván Palomares Carrascosa | MLM | 10 April, 2025 | [Link](https://machinelearningmastery.com/understanding-rag-part-ix-fine-tuning-llms-for-rag/) |
 
  
 
