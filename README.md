@@ -66,7 +66,7 @@ Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contr
 
 ## 📄 License
 
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This repository is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
