@@ -64,6 +64,7 @@
 | From Unstructured Text to Interactive Knowledge Graphs Using LLMs | Robert McDermott | Medium | 31 March, 2025 | [Link](https://robert-mcdermott.medium.com/from-unstructured-text-to-interactive-knowledge-graphs-using-llms-dd02a1f71cd6) | 
 | Understanding RAG Part IX: Fine-Tuning LLMs for RAG | Iván Palomares Carrascosa | MLM | 10 April, 2025 | [Link](https://machinelearningmastery.com/understanding-rag-part-ix-fine-tuning-llms-for-rag/) |
 | AI Agents: Architectures (Part-6) | Vipra Singh | Medium | 7 April, 2025 | [Link](https://medium.com/@vipra_singh/ai-agents-architectures-part-6-538812b1e17d) | 
+| Visual guide to Model Context Protocol (MCP) | Avi Chawla | DailyDoseDS | 15 March, 2025 | [Link](https://www.dailydoseofds.com/p/visual-guide-to-model-context-protocol-mcp/#)
 
  
 
