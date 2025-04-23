@@ -66,6 +66,7 @@
 | AI Agents: Architectures (Part-6) | Vipra Singh | Medium | 7 April, 2025 | [Link](https://medium.com/@vipra_singh/ai-agents-architectures-part-6-538812b1e17d) | 
 | Visual guide to Model Context Protocol (MCP) | Avi Chawla | DailyDoseDS | 15 March, 2025 | [Link](https://www.dailydoseofds.com/p/visual-guide-to-model-context-protocol-mcp/#) |
 | Quantization in Machine Learning: 5 Reasons Why It Matters More Than You Think | Nahla Davies | MLM | 17 April, 2025 | [Link](https://machinelearningmastery.com/quantization-in-machine-learning-5-reasons-why-it-matters-more-than-you-think/) |
+| How to Run Large Language Models (LLMs) Locally: A Beginner’s Guide to Offline AI | Claudia Ng | Data Science Collective | 17 April, 2025 | [Link](https://medium.com/data-science-collective/how-to-run-large-language-models-llms-locally-a-beginners-guide-to-offline-ai-50e89dadcafd) |
 
  
 
