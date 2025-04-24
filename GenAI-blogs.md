@@ -68,7 +68,7 @@
 | Quantization in Machine Learning: 5 Reasons Why It Matters More Than You Think | Nahla Davies | MLM | 17 April, 2025 | [Link](https://machinelearningmastery.com/quantization-in-machine-learning-5-reasons-why-it-matters-more-than-you-think/) |
 | How to Run Large Language Models (LLMs) Locally: A Beginner’s Guide to Offline AI | Claudia Ng | Data Science Collective | 17 April, 2025 | [Link](https://medium.com/data-science-collective/how-to-run-large-language-models-llms-locally-a-beginners-guide-to-offline-ai-50e89dadcafd) |
 | The Open-Source Stack for AI Agents | Paolo Perrone | Data Science Collective | 22 April, 2025 | [Link](https://medium.com/data-science-collective/the-open-source-stack-for-ai-agents-8ab900e33676) |
-
+| Building a RAG Application Using LlamaIndex | Josep Ferrer | KDnuggets | 21 April, 2025 | [Link](https://www.kdnuggets.com/building-a-rag-application-using-llamaindex) |
  
 
 
