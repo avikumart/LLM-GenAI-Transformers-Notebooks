@@ -70,7 +70,7 @@
 | The Open-Source Stack for AI Agents | Paolo Perrone | Data Science Collective | 22 April, 2025 | [Link](https://medium.com/data-science-collective/the-open-source-stack-for-ai-agents-8ab900e33676) |
 | Building a RAG Application Using LlamaIndex | Josep Ferrer | KDnuggets | 21 April, 2025 | [Link](https://www.kdnuggets.com/building-a-rag-application-using-llamaindex) |
 | Let’s Build a RAG-Powered Research Paper Assistant | Cornellius Yudha Wijaya | MLM | 22 April, 2025 | [Link](https://machinelearningmastery.com/lets-build-a-rag-powered-research-paper-assistant/) |
-| LangChain + MCP + RAG + Ollama = The Key To Powerful Agentic AI | Gao Dalie | DSC | 19 April, 2025 | [Link](https://medium.com/data-science-collective/langchain-mcp-rag-ollama-the-key-to-powerful-agentic-ai-91529b2fa320) |
+| LangChain + MCP + RAG + Ollama = The Key To Powerful Agentic AI | Gao Dalie | DSC | 19 April, 2025 | [Link](https://medium.com/data-science-collective/langchain-mcp-rag-ollama-the-key-to-powerful-agentic-ai-91529b2fa320) | Frontiers of Foundation Models for Time Series | ODSC | ODSC | 1 April, 2025 | [Link](https://odsc.medium.com/frontiers-of-foundation-models-for-time-series-1e590940b9be) |
 
 
  
