@@ -159,3 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 ./OpenAI_streamlit_app/env
+./Email-drafter_agent_FastAPI/env
+./Email_drafter_agent_FastAPI/fenv
