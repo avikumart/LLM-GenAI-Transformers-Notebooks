@@ -162,3 +162,5 @@ cython_debug/
 ./Email-drafter_agent_FastAPI/env
 ./Email_drafter_agent_FastAPI/fenv
 ./Email_drafter_agent_FastAPI/fenv
+./Email_drafter_agent_FastAPI/fenv
+./Email_drafter_agent_FastAPI/fenv/
