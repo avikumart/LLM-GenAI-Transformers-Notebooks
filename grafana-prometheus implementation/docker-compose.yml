@@ -1,0 +1,40 @@
+version: '3.9'
+
+services:
+  fastapi:
+    build:
+      context: ./src
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./src:/src
+    container_name: fastapi-demo
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus-demo
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+    ports:
+      - "9090:9090"
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana-demo
+    ports:
+      - "3000:3000"
+    volumes:
+      - grafana-data:/var/lib/grafana
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+
+volumes:
+  grafana-data:
+
+# commands:
+  # docker-compose up --build
+  # docker-compose up -d
+  # docker-compose down
+  # docker system prune
+  # docker-compose pause
+  # docker-compose unpause
