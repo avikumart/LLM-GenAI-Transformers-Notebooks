@@ -75,6 +75,7 @@
 | Anomaly Detection in Time Series Using Statistical Analysis | Ivan Shubin | Booking.com engineering blog | 16 April, 2025 | [Link](https://medium.com/booking-com-development/anomaly-detection-in-time-series-using-statistical-analysis-cc587b21d008) |
 | How to Break a Large Language Model | Nick Lamb | AI Advances | 4 May, 2025 | [Link](https://ai.gopubby.com/how-to-break-a-large-language-model-4a557b28581a) | 
 | Creating a Qwen-Powered Lightweight Personal Assistant | Iván Palomares Carrascosa | MLM | 9 May, 2025 | [Link](https://machinelearningmastery.com/creating-a-qwen-powered-lightweight-personal-assistant/) |
+| What Every AI Engineer Should Know About A2A, MCP & ACP | Edwin Lisowski | Medium | 24 April, 2025 | [link](https://medium.com/@elisowski/what-every-ai-engineer-should-know-about-a2a-mcp-acp-8335a210a742) |
 
 
 
