@@ -1,5 +1,9 @@
 version: '3.9'
 
+networks:
+  front-tier:
+  back-tier:
+
 services:
   fastapi:
     build:
@@ -29,7 +33,7 @@ services:
       - GF_SECURITY_ADMIN_PASSWORD=admin
 
 volumes:
-  grafana-data:
+  grafana-data: {}
 
 # commands:
   # docker-compose up --build
