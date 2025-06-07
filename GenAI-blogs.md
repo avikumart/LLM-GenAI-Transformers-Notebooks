@@ -79,6 +79,8 @@
 | Why The Focus Has Shifted from AI Agents to Agentic Workflows | Cobus Greyling | Medium | 5 February, 2025 | [Link](https://cobusgreyling.medium.com/why-the-focus-has-shifted-from-ai-agents-to-agentic-workflows-51e4078d03c2) |  
 | Qwen-3 Fine Tuning Made Easy: Create Custom AI Models with Python and Unsloth | Kishan Walia | Towards AI | 10 May, 2025 | [Link](https://pub.towardsai.net/qwen-3-fine-tuning-made-easy-create-custom-ai-models-with-python-and-unsloth-b1a8f684c3f1) | 
 | From Python to AI Engineer: A Self-Study Roadmap | Vinod Chugani | KDnuggets | 22 May, 2025 | [Link](https://www.kdnuggets.com/from-python-to-ai-engineer-a-self-study-roadmap) |
+| Word Embeddings in Language Models | Adrian Tam | MLM | 7 June, 2025 | [Link](https://machinelearningmastery.com/word-embeddings-in-language-models/) |
+
 
 
 
