@@ -81,6 +81,8 @@
 | From Python to AI Engineer: A Self-Study Roadmap | Vinod Chugani | KDnuggets | 22 May, 2025 | [Link](https://www.kdnuggets.com/from-python-to-ai-engineer-a-self-study-roadmap) |
 | Word Embeddings in Language Models | Adrian Tam | MLM | 7 June, 2025 | [Link](https://machinelearningmastery.com/word-embeddings-in-language-models/) |
 | AI Agent Architecture via A2A/MCP | Jeffrey Richter | Medium | 3 June, 2025 | [Link](https://medium.com/@jeffreymrichter/ai-agent-architecture-b864080c4bbc) | 
+| Why You Need RAG to Stay Relevant as a Data Scientist | Nate Rosidi | KDnuggets | 11 June, 2025 | [Link](https://www.kdnuggets.com/why-you-need-rag-to-stay-relevant-as-a-data-scientist) |
+
 
 
 
