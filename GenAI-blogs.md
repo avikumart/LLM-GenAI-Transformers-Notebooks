@@ -82,6 +82,7 @@
 | Word Embeddings in Language Models | Adrian Tam | MLM | 7 June, 2025 | [Link](https://machinelearningmastery.com/word-embeddings-in-language-models/) |
 | AI Agent Architecture via A2A/MCP | Jeffrey Richter | Medium | 3 June, 2025 | [Link](https://medium.com/@jeffreymrichter/ai-agent-architecture-b864080c4bbc) | 
 | Why You Need RAG to Stay Relevant as a Data Scientist | Nate Rosidi | KDnuggets | 11 June, 2025 | [Link](https://www.kdnuggets.com/why-you-need-rag-to-stay-relevant-as-a-data-scientist) |
+| AI agents and Agentic AI | Cobus Grayling | Medium | 4 June, 2025 | [Link](https://cobusgreyling.medium.com/ai-agents-agentic-ai-bfe4b3c586a4) | 
 
 
 
