@@ -83,6 +83,7 @@
 | AI Agent Architecture via A2A/MCP | Jeffrey Richter | Medium | 3 June, 2025 | [Link](https://medium.com/@jeffreymrichter/ai-agent-architecture-b864080c4bbc) | 
 | Why You Need RAG to Stay Relevant as a Data Scientist | Nate Rosidi | KDnuggets | 11 June, 2025 | [Link](https://www.kdnuggets.com/why-you-need-rag-to-stay-relevant-as-a-data-scientist) |
 | AI agents and Agentic AI | Cobus Grayling | Medium | 4 June, 2025 | [Link](https://cobusgreyling.medium.com/ai-agents-agentic-ai-bfe4b3c586a4) | 
+| Building AI Agents That Actually Remember: A Developer’s Guide to Memory Management in 2025 | Nayeem Islam | Medium | 13 June, 2025 | [Link](https://medium.com/@nomannayeem/building-ai-agents-that-actually-remember-a-developers-guide-to-memory-management-in-2025-062fd0be80a1) |
 
 
 
