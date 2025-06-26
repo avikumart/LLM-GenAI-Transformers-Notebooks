@@ -76,7 +76,15 @@
 | How to Break a Large Language Model | Nick Lamb | AI Advances | 4 May, 2025 | [Link](https://ai.gopubby.com/how-to-break-a-large-language-model-4a557b28581a) | 
 | Creating a Qwen-Powered Lightweight Personal Assistant | Iván Palomares Carrascosa | MLM | 9 May, 2025 | [Link](https://machinelearningmastery.com/creating-a-qwen-powered-lightweight-personal-assistant/) |
 | What Every AI Engineer Should Know About A2A, MCP & ACP | Edwin Lisowski | Medium | 24 April, 2025 | [link](https://medium.com/@elisowski/what-every-ai-engineer-should-know-about-a2a-mcp-acp-8335a210a742) |
-| Why The Focus Has Shifted from AI Agents to Agentic Workflows | Cobus Greyling | Medium | 5 February, 2025 | [Link](https://cobusgreyling.medium.com/why-the-focus-has-shifted-from-ai-agents-to-agentic-workflows-51e4078d03c2) | 
+| Why The Focus Has Shifted from AI Agents to Agentic Workflows | Cobus Greyling | Medium | 5 February, 2025 | [Link](https://cobusgreyling.medium.com/why-the-focus-has-shifted-from-ai-agents-to-agentic-workflows-51e4078d03c2) |  
+| Qwen-3 Fine Tuning Made Easy: Create Custom AI Models with Python and Unsloth | Kishan Walia | Towards AI | 10 May, 2025 | [Link](https://pub.towardsai.net/qwen-3-fine-tuning-made-easy-create-custom-ai-models-with-python-and-unsloth-b1a8f684c3f1) | 
+| From Python to AI Engineer: A Self-Study Roadmap | Vinod Chugani | KDnuggets | 22 May, 2025 | [Link](https://www.kdnuggets.com/from-python-to-ai-engineer-a-self-study-roadmap) |
+| Word Embeddings in Language Models | Adrian Tam | MLM | 7 June, 2025 | [Link](https://machinelearningmastery.com/word-embeddings-in-language-models/) |
+| AI Agent Architecture via A2A/MCP | Jeffrey Richter | Medium | 3 June, 2025 | [Link](https://medium.com/@jeffreymrichter/ai-agent-architecture-b864080c4bbc) | 
+| Why You Need RAG to Stay Relevant as a Data Scientist | Nate Rosidi | KDnuggets | 11 June, 2025 | [Link](https://www.kdnuggets.com/why-you-need-rag-to-stay-relevant-as-a-data-scientist) |
+| AI agents and Agentic AI | Cobus Grayling | Medium | 4 June, 2025 | [Link](https://cobusgreyling.medium.com/ai-agents-agentic-ai-bfe4b3c586a4) | 
+| Building AI Agents That Actually Remember: A Developer’s Guide to Memory Management in 2025 | Nayeem Islam | Medium | 13 June, 2025 | [Link](https://medium.com/@nomannayeem/building-ai-agents-that-actually-remember-a-developers-guide-to-memory-management-in-2025-062fd0be80a1) |
+
 
 
 
