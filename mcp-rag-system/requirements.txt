@@ -1,0 +1,5 @@
+streamlit
+pymilvus
+sentence-transformers
+mcp[cli]
+python-dotenv 

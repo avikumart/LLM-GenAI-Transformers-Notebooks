@@ -1,0 +1,18 @@
+{
+  "firecrawl": {
+    "command": "npx",
+    "args": ["@mendable/firecrawl-mcp-server"],
+    "env": {
+      "FIRECRAWL_API_KEY": "your-firecrawl-api-key"
+    }
+  },
+  "milvus-rag": {
+    "command": "python",
+    "args": ["mcp_milvus_server.py"],
+    "cwd": ".",
+    "env": {
+      "MILVUS_HOST": "localhost",
+      "MILVUS_PORT": "19530"
+    }
+  }
+} 
