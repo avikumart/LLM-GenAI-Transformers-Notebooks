@@ -86,6 +86,7 @@
 | Building AI Agents That Actually Remember: A Developer’s Guide to Memory Management in 2025 | Nayeem Islam | Medium | 13 June, 2025 | [Link](https://medium.com/@nomannayeem/building-ai-agents-that-actually-remember-a-developers-guide-to-memory-management-in-2025-062fd0be80a1) |
 | NVIDIA Says Small Language Models Are The Future of Agentic AI | Cobus Greyling | Medium | 25 June, 2025 | [Link](https://cobusgreyling.medium.com/nvidia-says-small-language-models-are-the-future-of-agentic-ai-f1f7289d9565) |
 | Context Engineering vs Prompt Engineering | Mehul Gupta | DS in your pocket | 28 June, 2025 | [Link](https://medium.com/data-science-in-your-pocket/context-engineering-vs-prompt-engineering-379e9622e19d) | 
+| Build an MCP Server from Scratch to Chat with Your Data | Daniel Herrera | Teradata | 27 June, 2025 | [Link](https://medium.com/teradata/build-an-mcp-server-from-scratch-to-chat-with-your-data-a92f2a6d4581) | 
 
 
 
