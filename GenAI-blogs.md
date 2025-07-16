@@ -87,7 +87,8 @@
 | NVIDIA Says Small Language Models Are The Future of Agentic AI | Cobus Greyling | Medium | 25 June, 2025 | [Link](https://cobusgreyling.medium.com/nvidia-says-small-language-models-are-the-future-of-agentic-ai-f1f7289d9565) |
 | Context Engineering vs Prompt Engineering | Mehul Gupta | DS in your pocket | 28 June, 2025 | [Link](https://medium.com/data-science-in-your-pocket/context-engineering-vs-prompt-engineering-379e9622e19d) | 
 | Build an MCP Server from Scratch to Chat with Your Data | Daniel Herrera | Teradata | 27 June, 2025 | [Link](https://medium.com/teradata/build-an-mcp-server-from-scratch-to-chat-with-your-data-a92f2a6d4581) | 
-| Agentic AI Engineering: The Blueprint for Production-Grade AI Agents | Yi Zhou | Medium | 4 July, 2025C | [Link](https://medium.com/generative-ai-revolution-ai-native-transformation/agentic-ai-engineering-the-blueprint-for-production-grade-ai-agents-20358468b0b1) | 
+| Agentic AI Engineering: The Blueprint for Production-Grade AI Agents | Yi Zhou | Medium | 4 July, 2025 | [Link](https://medium.com/generative-ai-revolution-ai-native-transformation/agentic-ai-engineering-the-blueprint-for-production-grade-ai-agents-20358468b0b1) | 
+| Time Series Foundation Models for Forecasting Task | Minyang Chen | Medium | 25 June, 2025 | [Link](https://mychen76.medium.com/time-series-foundation-models-for-forecasting-task-c9076cae9a84) |
 
 
 
