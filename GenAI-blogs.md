@@ -90,6 +90,7 @@
 | Agentic AI Engineering: The Blueprint for Production-Grade AI Agents | Yi Zhou | Medium | 4 July, 2025 | [Link](https://medium.com/generative-ai-revolution-ai-native-transformation/agentic-ai-engineering-the-blueprint-for-production-grade-ai-agents-20358468b0b1) | 
 | Time Series Foundation Models for Forecasting Task | Minyang Chen | Medium | 25 June, 2025 | [Link](https://mychen76.medium.com/time-series-foundation-models-for-forecasting-task-c9076cae9a84) |
 | How to do Context Engineering? Step by Step Guide | Mehul Gupta | Data Science in Your Pocket | 30 June, 2025 | [Link](https://medium.com/data-science-in-your-pocket/how-to-do-context-engineering-step-by-step-guide-a6d09d087029) | 
+| How Do LLMs Function? | Avikumar Talaviya | Medium | 29 July, 2025 | [Link](https://medium.com/@avikumart_/how-do-llms-function-9af28aeb7b35) | 
 
 
 
