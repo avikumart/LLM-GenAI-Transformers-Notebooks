@@ -92,6 +92,7 @@
 | How to do Context Engineering? Step by Step Guide | Mehul Gupta | Data Science in Your Pocket | 30 June, 2025 | [Link](https://medium.com/data-science-in-your-pocket/how-to-do-context-engineering-step-by-step-guide-a6d09d087029) | 
 | How Do LLMs Function? | Avikumar Talaviya | Medium | 29 July, 2025 | [Link](https://medium.com/@avikumart_/how-do-llms-function-9af28aeb7b35) | 
 | Time-Series Transformation Toolkit: Feature Engineering for Predictive Analytics | MLM | MLM | 6 Aug, 2025 | [Link](https://machinelearningmastery.com/time-series-transformation-toolkit-feature-engineering-for-predictive-analytics/) | 
+| 5 Tips for Building Optimized Hugging Face Transformer Pipelines | Cornellius Yudha Wijaya | KDnuggets | 12 September, 2025 | [Link](https://www.kdnuggets.com/5-tips-for-building-optimized-hugging-face-transformer-pipelines) |
 
 
 
