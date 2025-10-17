@@ -93,6 +93,7 @@
 | How Do LLMs Function? | Avikumar Talaviya | Medium | 29 July, 2025 | [Link](https://medium.com/@avikumart_/how-do-llms-function-9af28aeb7b35) | 
 | Time-Series Transformation Toolkit: Feature Engineering for Predictive Analytics | MLM | MLM | 6 Aug, 2025 | [Link](https://machinelearningmastery.com/time-series-transformation-toolkit-feature-engineering-for-predictive-analytics/) | 
 | 5 Tips for Building Optimized Hugging Face Transformer Pipelines | Cornellius Yudha Wijaya | KDnuggets | 12 September, 2025 | [Link](https://www.kdnuggets.com/5-tips-for-building-optimized-hugging-face-transformer-pipelines) |
+| Beyond Vector Search: 5 Next-Gen RAG Retrieval Strategies | Mathew Mayo | Machine Learning Mastery | 24 September, 2025 | [Link](https://machinelearningmastery.com/beyond-vector-search-5-next-gen-rag-retrieval-strategies/) | 
 
 
 
