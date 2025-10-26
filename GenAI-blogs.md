@@ -95,6 +95,8 @@
 | 5 Tips for Building Optimized Hugging Face Transformer Pipelines | Cornellius Yudha Wijaya | KDnuggets | 12 September, 2025 | [Link](https://www.kdnuggets.com/5-tips-for-building-optimized-hugging-face-transformer-pipelines) |
 | Beyond Vector Search: 5 Next-Gen RAG Retrieval Strategies | Mathew Mayo | Machine Learning Mastery | 24 September, 2025 | [Link](https://machinelearningmastery.com/beyond-vector-search-5-next-gen-rag-retrieval-strategies/) | 
 | Building Transformer Models from Scratch with PyTorch | Adrian Tam | MLM | 12 October, 2025 | [Link](https://machinelearningmastery.com/building-transformer-models-from-scratch-with-pytorch-10-day-mini-course/) | 
+| LLM poisoning | Dhanush Kumar | Medium | 21 October, 2025 | [Link](https://medium.com/@danushidk507/llm-poisoning-44ddec486010) |
+
 
 
 
