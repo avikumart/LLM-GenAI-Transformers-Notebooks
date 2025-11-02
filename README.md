@@ -1,78 +1,59 @@
-# LLM-GenAI-Transformers-Notebooks
+# LLM-GenAI-Transformers-Notebooks 🧠✨
 
-## 📚 Overview
+**A comprehensive repository containing tutorials, projects, and notebooks for Large Language Models (LLMs), Generative AI, and Transformer architectures.**
 
-Welcome to the comprehensive repository of notebooks, tutorials, and projects focused on Large Language Models (LLMs), Generative AI, and Transformer architectures. This repository serves as a central hub for practitioners, researchers, and enthusiasts looking to explore and implement cutting-edge natural language processing and generative AI technologies.
+This repository is designed for engineers, data scientists, and developers looking to master the full lifecycle of LLM development—from fundamental concepts and fine-tuning to advanced deployment and monitoring.
 
-## 🔍 Focus Areas
+***
 
-- **Transformer Architectures**: Deep dives into the architecture that revolutionized NLP
-- **LLM Applications**: Practical implementations of language models across various domains
-- **GenAI Tools & Technologies**: Tutorials on the latest frameworks and tools
-- **Educational Resources**: Curated courses and learning paths
-- **Implementation Guides**: Step-by-step guides for building GenAI applications
+## 📂 Repository Structure & Key Focus Areas
 
-## 🛠️ Tools & Technologies
+This repository is organized into distinct folders covering major components of the LLM ecosystem.
 
-| Tool | Description |
-|------|-------------|
-| **Langchain** | Framework for developing applications powered by language models |
-| **OpenAI** | Implementation guides for GPT models and APIs |
-| **Hugging Face** | Resources for the transformers library and model hub |
-| **LlamaIndex** | Data framework for LLM applications to connect to external data |
-| **ChromaDB** | Vector database for embedding storage and semantic search |
-| **DeciAI** | Tools for AI model optimization and inference acceleration |
+| Directory | Focus Area | Description |
+| :--- | :--- | :--- |
+| **LLMs\_from\_Scratch** | **Foundations** | Deep dives into the inner workings of neural networks and transformer architecture. |
+| **HandsOnLLMs** | **Fine-Tuning Techniques** | Practical notebooks on modern fine-tuning methods like **LoRA, PEFT**, and Reinforcement Learning techniques such as **PPO** and **DPO** (Direct Preference Optimization). |
+| **ChromaDB\_semantic\_search** | **Vector Databases & RAG** | Implementations of semantic search and **Retrieval-Augmented Generation (RAG)** using **ChromaDB**. |
+| **mcp-rag-system** | **Advanced RAG** | Contains a specialized RAG application setup (likely involving Milvus/MCP server). |
+| **LLMs\_deployment** | **Cloud & API Deployment** | Examples for deploying LLMs, including a Perplexity-style clone application demo. |
+| **Fastapi\_aws\_deploy** | **Production Deployment** | Deployment guides for LLMs (e.g., Llama) using **FastAPI** and **AWS** (potentially via Cerebrium). |
+| **OpenAI\_streamlit\_app** | **Front-end Applications** | A complete **Streamlit** application showcasing an **OpenAI** chatbot implementation. |
+| **gemma\_streamlit\_app** | **Model-Specific Apps** | Local deployment of the **Gemma** model using a Streamlit front-end. |
+| **Email\_drafter\_agent\_FastAPI** | **Agentic Workflow** | Building a practical AI agent (e.g., an email drafter) exposed via a **FastAPI** service. |
+| **NVIDIA\_CUDA\_BASICS** | **GPU Acceleration** | Tutorials and custom kernels for understanding and optimizing operations with **NVIDIA CUDA**. |
+| **RAPIDS\_Data\_Science** | **GPU Data Science** | Examples using the **RAPIDS** suite for accelerating data science workflows with CUDA/Python. |
+| **DeepLearningFiles** | **General Deep Learning** | Files for broader DL concepts, such as multi-output model training using Keras. |
+| **grafana-prometheus implementation** | **Monitoring** | Setup for observing and monitoring LLM services using **Grafana** and **Prometheus**. |
 
-## 📘 Featured Notebooks
+***
 
-The repository includes notebooks on various topics:
-- Fine-tuning strategies for open-source LLMs
-- Building conversational agents with memory
-- Creating multimodal applications
-- Implementing retrieval-augmented generation (RAG)
-- Optimizing transformer models for production
-- Natural Language to SQL applications
+## 🛠️ Key Technologies & Frameworks
 
-## 📖 Articles & Blogs
+This project extensively uses the following tools and libraries:
 
-1. [Fine tune open source LLMs using Lamini](https://www.analyticsvidhya.com/blog/2024/09/fine-tune-open-source-llms-using-lamini/)
-2. [Building Natural Language to SQL Applications using LlamaIndex](https://www.analyticsvidhya.com/blog/2024/04/building-natural-language-to-sql-applications-using-llamaindex/)
+* **Models:** Llama, Gemma, GPT (via OpenAI API)
+* **Frameworks:** Hugging Face **Transformers**, **PEFT**, **LoRA**, **FastAPI**, **Streamlit**
+* **Vector DBs:** **ChromaDB**
+* **GPU Tools:** **NVIDIA CUDA**, **RAPIDS**
+* **MLOps/Monitoring:** **Grafana**, **Prometheus**
+* **Cloud:** **AWS**
 
-## 🎓 Learning Resources
+***
 
-The repository contains a curated list of courses, tutorials, and learning resources for GenAI and LLMs, from beginner to advanced levels. These include:
-- Interactive tutorials for different transformer architectures
-- Hands-on projects to build practical applications
-- Guidelines for prompt engineering
-- Best practices for LLM fine-tuning
+## 📚 Resources & Learning Paths
 
-## 🤝 Contributing
+In addition to the practical notebooks, this repository includes supporting files to guide your learning journey:
 
-Contributions to this repository are welcome! Whether you want to:
-- Add new notebooks or projects
-- Improve existing content
-- Fix bugs or issues
-- Share educational resources
+* [`GenAI-blogs.md`](GenAI-blogs.md): Curated list of informative blogs and articles on Generative AI.
+* [`LLM-GenAI-Courses.md`](LLM-GenAI-Courses.md): A collection of suggested courses and learning resources.
+* **Fine-Tuning Notebooks:** Dedicated notebooks focusing on advanced **GPT** and open-source LLM fine-tuning strategies.
 
-Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
-
-## 📅 Roadmap
-
-- [ ] Expand transformer architecture examples
-- [ ] Add more domain-specific LLM applications
-- [ ] Create comprehensive evaluation frameworks
-- [ ] Develop benchmarking suites for different models
-- [ ] Add deployment guides for various platforms
+***
 
 ## 📄 License
 
-This repository is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-For questions, suggestions, or collaborations, please open an issue or reach out via [GitHub Issues](https://github.com/yourusername/LLM-GenAI-Transformers-Notebooks/issues).
-
----
+This repository is licensed under the **Apache-2.0 License**—see the [LICENSE](LICENSE) file for details.
 
 <p align="center">
   <i>If you find this repository helpful, please consider giving it a star ⭐</i>
