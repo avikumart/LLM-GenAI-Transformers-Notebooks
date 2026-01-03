@@ -93,6 +93,12 @@
 | How Do LLMs Function? | Avikumar Talaviya | Medium | 29 July, 2025 | [Link](https://medium.com/@avikumart_/how-do-llms-function-9af28aeb7b35) | 
 | Time-Series Transformation Toolkit: Feature Engineering for Predictive Analytics | MLM | MLM | 6 Aug, 2025 | [Link](https://machinelearningmastery.com/time-series-transformation-toolkit-feature-engineering-for-predictive-analytics/) | 
 | 5 Tips for Building Optimized Hugging Face Transformer Pipelines | Cornellius Yudha Wijaya | KDnuggets | 12 September, 2025 | [Link](https://www.kdnuggets.com/5-tips-for-building-optimized-hugging-face-transformer-pipelines) |
+| Beyond Vector Search: 5 Next-Gen RAG Retrieval Strategies | Mathew Mayo | Machine Learning Mastery | 24 September, 2025 | [Link](https://machinelearningmastery.com/beyond-vector-search-5-next-gen-rag-retrieval-strategies/) | 
+| Building Transformer Models from Scratch with PyTorch | Adrian Tam | MLM | 12 October, 2025 | [Link](https://machinelearningmastery.com/building-transformer-models-from-scratch-with-pytorch-10-day-mini-course/) | 
+| LLM poisoning | Dhanush Kumar | Medium | 21 October, 2025 | [Link](https://medium.com/@danushidk507/llm-poisoning-44ddec486010) |
+| The Complete Guide to Using Pydantic for Validating LLM Outputs | Bala Priya | MLM | 4 December, 2025 | [Link](https://machinelearningmastery.com/the-complete-guide-to-using-pydantic-for-validating-llm-outputs/) |
+| A Detailed journey towards understanding MultiHead Attention | Vaishnavi Sundaraganapathi | Medium | 30 August, 2025 | [Link](https://medium.com/@vaishnavi.sundaraganapathi1328/a-detailed-journey-towards-understanding-multihead-attention-26902c13b598) |
+
 
 
 
