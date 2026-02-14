@@ -6,6 +6,8 @@ This repository is designed for engineers, data scientists, and developers looki
 
 ***
 
+![image](intro_image.png)
+
 ## 📂 Repository Structure & Key Focus Areas
 
 This repository is organized into distinct folders covering major components of the LLM ecosystem.
