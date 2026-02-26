@@ -99,6 +99,7 @@
 | The Complete Guide to Using Pydantic for Validating LLM Outputs | Bala Priya | MLM | 4 December, 2025 | [Link](https://machinelearningmastery.com/the-complete-guide-to-using-pydantic-for-validating-llm-outputs/) |
 | A Detailed journey towards understanding MultiHead Attention | Vaishnavi Sundaraganapathi | Medium | 30 August, 2025 | [Link](https://medium.com/@vaishnavi.sundaraganapathi1328/a-detailed-journey-towards-understanding-multihead-attention-26902c13b598) |
 | Top 7 Small Language Models You Can Run on a Laptop | Vinod Chugani | MLM | 17 February, 2026 | [Link](https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/) |
+| Build an Inference Cache to Save Costs in High-Traffic LLM Apps | Kanwal Mehreen | MLM | 9 October, 2025 | [Link](https://machinelearningmastery.com/build-an-inference-cache-to-save-costs-in-high-traffic-llm-apps/) | 
 
 
 
