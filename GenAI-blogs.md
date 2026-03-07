@@ -101,6 +101,7 @@
 | Top 7 Small Language Models You Can Run on a Laptop | Vinod Chugani | MLM | 17 February, 2026 | [Link](https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/) |
 | Build an Inference Cache to Save Costs in High-Traffic LLM Apps | Kanwal Mehreen | MLM | 9 October, 2025 | [Link](https://machinelearningmastery.com/build-an-inference-cache-to-save-costs-in-high-traffic-llm-apps/) | 
 | Building a Simple MCP Server in Python | Bala Priya C | MLM | 19 February, 2026 | [Link](https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/) | 
+| Build Semantic Search with LLM Embeddings | Ivan P | MLM | 3 March, 2026 | [Link](https://machinelearningmastery.com/build-semantic-search-with-llm-embeddings/) |
 
 
 
