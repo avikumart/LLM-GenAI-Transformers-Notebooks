@@ -48,6 +48,7 @@
 | AI Python for beginners | Deeplearning.AI | Programming fundamentals, Leverage AI assistants to debug code, explain concepts, enhancing learning | [Link](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) |
 | Vibe Coding 101 with Replit | Deeplearning.AI | Vibe coding, replit, agentic AI code dev, debug and customize app | [Link](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit) |
 | Agentic AI | Deeplearning.AI | Agentic tools, External tools, Optimization of AI systems | [Link](https://learn.deeplearning.ai/courses/agentic-ai/information) | 
+| Agentic skills with Anthropic | Deeplearning.AI | Anthropic agents, agents | [Link](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic/lesson/ldn5c3/introduction) |
 
 
 
