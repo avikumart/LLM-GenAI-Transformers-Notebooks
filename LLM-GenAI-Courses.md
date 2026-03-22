@@ -49,6 +49,7 @@
 | Vibe Coding 101 with Replit | Deeplearning.AI | Vibe coding, replit, agentic AI code dev, debug and customize app | [Link](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit) |
 | Agentic AI | Deeplearning.AI | Agentic tools, External tools, Optimization of AI systems | [Link](https://learn.deeplearning.ai/courses/agentic-ai/information) | 
 | Agentic skills with Anthropic | Deeplearning.AI | Anthropic agents, agents | [Link](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic/lesson/ldn5c3/introduction) |
+| Agent Memory: Building Memory-Aware Agents | DeepLearning.AI | AI Agents, Memory Aware agentic applications | [Link](https://learn.deeplearning.ai/courses/agent-memory-building-memory-aware-agents) | 
 
 
 
