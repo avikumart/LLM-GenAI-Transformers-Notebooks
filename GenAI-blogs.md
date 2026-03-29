@@ -106,6 +106,7 @@
 | 5 Production Scaling Challenges for Agentic AI in 2026 | Nahla Davies | MLM | 20 March, 2026 | [Link](https://machinelearningmastery.com/5-production-scaling-challenges-for-agentic-ai-in-2026/) | 
 | Beyond the Vector Store: Building the Full Data Layer for AI Applications | Matthew Mayo | MLM | 24 March, 2026 | [Link](https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/) | 
 | 7 Steps to Mastering Memory in Agentic AI Systems | Bala Priya | MLM | 23 March, 2026 | [Link](https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/) |
+| Caching: A Dive into In-Memory and Redis Caches | Shivangi Srivastava | Medium | 12 August, 2024 | [Link](https://medium.com/the-modern-scientist/caching-a-dive-into-in-memory-and-redis-caches-7b9491a1fa1b) | 
  
 
 
