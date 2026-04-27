@@ -50,6 +50,7 @@
 | Agentic AI | Deeplearning.AI | Agentic tools, External tools, Optimization of AI systems | [Link](https://learn.deeplearning.ai/courses/agentic-ai/information) | 
 | Agentic skills with Anthropic | Deeplearning.AI | Anthropic agents, agents | [Link](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic/lesson/ldn5c3/introduction) |
 | Agent Memory: Building Memory-Aware Agents | DeepLearning.AI | AI Agents, Memory Aware agentic applications | [Link](https://learn.deeplearning.ai/courses/agent-memory-building-memory-aware-agents) | 
+| A2A: The Agent2Agent Protocol | Deeplearning.AI | Google ADK, LangGraph, or BeeAI as A2A | [Link](https://www.deeplearning.ai/short-courses/a2a-the-agent2agent-protocol/) | 
 
 
 
