@@ -112,6 +112,8 @@
 | Effective Context Engineering for AI Agents: A Developer’s Guide | Bala Priya C | MLM | 28 April, 2026 | [Link](https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/) |
 | The Roadmap to Mastering AI Agent Evaluation | Bala Priya C | MLM | 18 June, 2026 | [Link](https://machinelearningmastery.com/the-roadmap-to-mastering-ai-agent-evaluation/) |
 | AI Agent Tool Design: What Works and What Doesn’t | Bala Priya C | MLM | 15 June, 2026 | [Link](https://machinelearningmastery.com/ai-agent-tool-design-what-works-and-what-doesnt/) | 
+| From RAG to Memory Systems: Building Stateful AI Architecture | Jeremy Daly | Oracle | 4 June, 2026 | [Link](https://blogs.oracle.com/developers/from-rag-to-memory-systems-building-stateful-ai-architecture) |
+ 
 
 
 
